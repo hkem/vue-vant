@@ -1,3 +1,15 @@
+
+
+# vue+vant 基础项目模板
+
+1，封装axios请求
+
+2，使用less样式
+
+3，其他等待添加
+
+
+
 # requestvue
 
 > A Vue.js project
